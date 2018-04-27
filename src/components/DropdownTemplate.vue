@@ -1,9 +1,8 @@
 <script>
 export default {
   name: "DropdownTemplate",
-  props: ["header"],
   template: `<div>
-    <div><h3>Sports 1</h3></div>
+    <div><h3> Sports 1 </h3></div>
   </div>`,
   data() {
     return {};
