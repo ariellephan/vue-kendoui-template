@@ -1,6 +1,6 @@
-# test-project
+# vue-kendoui-tempate
 
-> A Vue.js project
+> Demo for Vue.js integration with Kendo UI components and dynamic template
 
 ## Build Setup
 
